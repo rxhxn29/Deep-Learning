@@ -61,7 +61,7 @@ The neural network consists of the following layers:
 
 **Total Parameters**: 4,353
 
-## 🏋️ Training Configuration
+##  Training Configuration
 - **Optimizer**: Adam
 - **Loss Function**: Binary Crossentropy
 - **Metrics**: Accuracy, Mean Absolute Error
